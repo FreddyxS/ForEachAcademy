@@ -7,3 +7,5 @@ tapez ensuite node app.js
 
 à l'aide d'une autre invite de commande , placez vous à la racine du dossier front/excusededev , puis tapez npm install
 tapez ensuite npm start
+
+si l'erreur Plugin “react” was conflicted apparaît , allez dans package.json et appuyez sur ctrl+s.
